@@ -4,7 +4,7 @@ www.schwarz-auf-weiss.net migration from Google Workspace --> Gemini & Open Sour
 
 # to do:
 ## organizational
-- invite Steffen as new Chief Sales Officer into this repository
+- invite Dr. Steffen Kaup as new Chief Sales & Innovation Officer into this repository
 - share this repository with Schwarz auf Weiss AG Supervisory Board
 
 ## Schwarz auf Weiss AG AI 1st App & Business MVP
