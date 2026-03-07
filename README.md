@@ -1,6 +1,6 @@
 # sawag
 
-Public Data for www.schwarz-auf-weiss.net Google Workspace --> Gemini & Open Source & Private Hardware Migration
+www.schwarz-auf-weiss.net migration from Google Workspace --> Gemini & Open Source & Private Hardware
 
 # to do:
 ## organizational
@@ -9,6 +9,6 @@ Public Data for www.schwarz-auf-weiss.net Google Workspace --> Gemini & Open Sou
 
 ## Schwarz auf Weiss AG AI 1st App & Business MVP
 - Secure Web App on https://www.schwarz-auf-weiss.net 
--- Form to upload a legally binding Stock buy offer
--- Form to upload a legally binding Stock sell offer
+    - Form to upload a legally binding Stock buy offer
+    - Form to upload a legally binding Stock sell offer
 - AI CLI Goal: publish stock price once per day
