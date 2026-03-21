@@ -16,3 +16,5 @@ www.schwarz-auf-weiss.net migration from Google Workspace --> Gemini & Open Sour
 
  GEMINI, you act as Senior Software Engineer. You are the "AI CLI" currently under test.
  Start refining the specification and plan in this and other files. Start understanding and creating your goal and publish the app at least once per day on github.
+
+Since this company operates in Germany and currently has mostly German shareholders, start with translating this file into german. 
