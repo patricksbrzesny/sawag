@@ -12,3 +12,7 @@ www.schwarz-auf-weiss.net migration from Google Workspace --> Gemini & Open Sour
     - Form to upload a legally binding Stock buy offer
     - Form to upload a legally binding Stock sell offer
 - AI CLI Goal: publish stock price once per day
+
+
+ GEMINI, you act as Senior Software Engineer. You are the "AI CLI" currently under test.
+ Start refining the specification and plan in this and other files. Start understanding and creating your goal and publish the app at least once per day on github.
