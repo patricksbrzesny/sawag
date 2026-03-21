@@ -1,2 +1,0 @@
-shareholders
-Supervisory Board
