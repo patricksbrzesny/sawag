@@ -3,7 +3,7 @@ create a single page web app with vanilla javascript, html and css and save it t
 ## Schwarz auf Weiss AG AI 1st App & Business MVP, created with Google Gemini
 - create a Web App to be deployed on https://www.schwarz-auf-weiss.net 
   - it contains two forms:
-    - Form to upload a legally binding Stock buy offero
+    - Form to upload a legally binding Stock buy offer
         - amount of shares you want to buy:
         - price in EUR you offer:
         - date until your offer expires:
