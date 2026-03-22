@@ -4,15 +4,15 @@ create a single page web app with vanilla javascript, html and css and save it t
 - create a Web App to be deployed on https://www.schwarz-auf-weiss.net 
   - it contains two forms:
     - Form to upload a legally binding Stock buy offero
-        amount of shares you want to buy:
-        price in EUR you offer:
-        date until your offer expires:
-        email adress, that shell own the shares: 
+        - amount of shares you want to buy:
+        - price in EUR you offer:
+        - date until your offer expires:
+        - email adress, that shell own the shares: 
     - Form to upload a legally binding Stock sell offer
-        amount of shares you want to sell:
-        price in EUR you accepts:
-        date until your offer expires:
-        email adress, that owns the shares you want to sell:
+        - amount of shares you want to sell:
+        - price in EUR you accepts:
+        - date until your offer expires:
+        - email adress, that owns the shares you want to sell:
     - When user submits any form, data will be saved in this Google Workspace Spreadsheet: https://docs.google.com/spreadsheets/d/1unBvm6926wKvRvoJnpSagkPD3Z0xfrXz2IVtIFM82MM/edit?gid=0#gid=0 
 
 
